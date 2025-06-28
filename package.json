@@ -9,5 +9,17 @@
     "express": "^4.18.2",
     "cors": "^2.8.5",
     "body-parser": "^1.20.2"
-  }
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashank-sh0urya/honey-sdk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashank-sh0urya/honey-sdk/issues"
+  },
+  "homepage": "https://github.com/shashank-sh0urya/honey-sdk#readme"
 }
