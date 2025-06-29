@@ -53,3 +53,4 @@
         }
     }, true);
 })();
+console.log("🕵️‍♂️ Honeypot script loaded.");
