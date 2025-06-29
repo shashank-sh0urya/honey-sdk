@@ -40,3 +40,6 @@ const PORT = 3001;
 app.listen(PORT, () => {
     console.log(`Honeypot running at http://localhost:${PORT}`);
 });
+app.get('/', (req, res) => {
+  res.send('Honeypot SDK is active. Use /honeypot.js to load the script.');
+});
